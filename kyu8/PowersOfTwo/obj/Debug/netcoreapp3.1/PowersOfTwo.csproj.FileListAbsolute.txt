@@ -1,0 +1,13 @@
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.exe
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.deps.json
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.dll
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\bin\Debug\netcoreapp3.1\PowersOfTwo.pdb
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.csprojAssemblyReference.cache
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.dll
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.pdb
+C:\Users\alexa\source\CodeWars\kyu8\PowersOfTwo\obj\Debug\netcoreapp3.1\PowersOfTwo.genruntimeconfig.cache
