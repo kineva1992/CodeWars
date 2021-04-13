@@ -1,0 +1,13 @@
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\bin\Debug\netcoreapp3.1\PreFizz.exe
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\bin\Debug\netcoreapp3.1\PreFizz.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\bin\Debug\netcoreapp3.1\PreFizz.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\bin\Debug\netcoreapp3.1\PreFizz.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\bin\Debug\netcoreapp3.1\PreFizz.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\bin\Debug\netcoreapp3.1\PreFizz.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\obj\Debug\netcoreapp3.1\PreFizz.csprojAssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\obj\Debug\netcoreapp3.1\PreFizz.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\obj\Debug\netcoreapp3.1\PreFizz.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\obj\Debug\netcoreapp3.1\PreFizz.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\obj\Debug\netcoreapp3.1\PreFizz.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\obj\Debug\netcoreapp3.1\PreFizz.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\PreFizz\obj\Debug\netcoreapp3.1\PreFizz.genruntimeconfig.cache

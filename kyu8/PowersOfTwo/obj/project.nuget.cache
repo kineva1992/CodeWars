@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CGR7lEdRRJRIiWzw6E6exb3Af234rQA8Zs3x51T+BKfQ/lgiVuUFk2Hrih7Htr3jZmapzMfl3m6lOUBilubEGw==",
+  "dgSpecHash": "kLl+A8siokMeHLVfAzraWHvaVgT/H6GJpu0hHUqmCllTBidunYoLo8N2BEguNSPZAUMgYC8Dd/Yxdqn+mjUijA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\source\\CodeWars\\kyu8\\PowersOfTwo\\PowersOfTwo.csproj",
+  "projectFilePath": "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PowersOfTwo\\PowersOfTwo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

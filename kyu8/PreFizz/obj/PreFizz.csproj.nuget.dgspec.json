@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PowersOfTwo\\PowersOfTwo.csproj": {}
+    "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PreFizz\\PreFizz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PowersOfTwo\\PowersOfTwo.csproj": {
+    "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PreFizz\\PreFizz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PowersOfTwo\\PowersOfTwo.csproj",
-        "projectName": "PowersOfTwo",
-        "projectPath": "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PowersOfTwo\\PowersOfTwo.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PreFizz\\PreFizz.csproj",
+        "projectName": "PreFizz",
+        "projectPath": "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PreFizz\\PreFizz.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PowersOfTwo\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\kyu8\\PreFizz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
