@@ -17,7 +17,7 @@ namespace Mango
         {
             int sum = n * m;
 
-            if (n < 0 && m < 0)
+            if (n < 0 || m < 0)
             {
                 return 0;
             }
