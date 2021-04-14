@@ -1,0 +1,13 @@
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.exe
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\bin\Debug\netcoreapp3.1\Generate range of integers.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.csprojAssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Generate range of integers\obj\Debug\netcoreapp3.1\Generate range of integers.genruntimeconfig.cache
