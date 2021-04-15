@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace all dots", "Replace all dots.csproj", "{626598F0-9B68-465E-8554-0A789959FA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626598F0-9B68-465E-8554-0A789959FA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626598F0-9B68-465E-8554-0A789959FA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626598F0-9B68-465E-8554-0A789959FA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626598F0-9B68-465E-8554-0A789959FA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6947D40F-7CAC-44BF-A0E6-9728CF20A29A}
+	EndGlobalSection
+EndGlobal

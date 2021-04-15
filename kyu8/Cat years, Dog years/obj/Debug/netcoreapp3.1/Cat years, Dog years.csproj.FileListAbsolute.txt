@@ -1,0 +1,12 @@
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\bin\Debug\netcoreapp3.1\Cat years, Dog years.exe
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\bin\Debug\netcoreapp3.1\Cat years, Dog years.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\bin\Debug\netcoreapp3.1\Cat years, Dog years.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\bin\Debug\netcoreapp3.1\Cat years, Dog years.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\bin\Debug\netcoreapp3.1\Cat years, Dog years.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\bin\Debug\netcoreapp3.1\Cat years, Dog years.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\obj\Debug\netcoreapp3.1\Cat years, Dog years.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\obj\Debug\netcoreapp3.1\Cat years, Dog years.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\obj\Debug\netcoreapp3.1\Cat years, Dog years.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\obj\Debug\netcoreapp3.1\Cat years, Dog years.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\obj\Debug\netcoreapp3.1\Cat years, Dog years.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Cat years, Dog years\obj\Debug\netcoreapp3.1\Cat years, Dog years.genruntimeconfig.cache
