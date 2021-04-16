@@ -1,0 +1,13 @@
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\obj\Debug\netcoreapp3.1\Convert number to reversed array of digits.csprojAssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\obj\Debug\netcoreapp3.1\Convert number to reversed array of digits.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\obj\Debug\netcoreapp3.1\Convert number to reversed array of digits.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\obj\Debug\netcoreapp3.1\Convert number to reversed array of digits.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\bin\Debug\netcoreapp3.1\Convert number to reversed array of digits.exe
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\bin\Debug\netcoreapp3.1\Convert number to reversed array of digits.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\bin\Debug\netcoreapp3.1\Convert number to reversed array of digits.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\bin\Debug\netcoreapp3.1\Convert number to reversed array of digits.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\bin\Debug\netcoreapp3.1\Convert number to reversed array of digits.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\bin\Debug\netcoreapp3.1\Convert number to reversed array of digits.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\obj\Debug\netcoreapp3.1\Convert number to reversed array of digits.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\obj\Debug\netcoreapp3.1\Convert number to reversed array of digits.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu8\Convert number to reversed array of digits\obj\Debug\netcoreapp3.1\Convert number to reversed array of digits.genruntimeconfig.cache

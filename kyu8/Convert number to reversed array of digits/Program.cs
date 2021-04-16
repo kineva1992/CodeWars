@@ -1,26 +1,37 @@
 ﻿using System;
-using System.Linq;
 
-namespace Convert_number_to_reversed_array_of_digits
+
+namespace Returning_Strings
 {
-    /*
-     Convert number to reversed array of digits
-     Given a random non-negative number, you have to return the digits of this number within an array in reverse order.
-     */
-
-    public static long[] Digitize(long n)
-    {
-        int[] nnumber = new int[n];
-
-        var longs = nnumber.Select(item => (long)item).ToArray();
-        return longs;
-
-    }
     class Program
     {
+        public static string Greet(string name)
+        {
+            if (name == " ")
+            {
+                return "hello";
+            }
+            else
+            {
+                return $"Hello,{name} how are you doing today?";
+            }
+
+        }
+
+        public static string GreetVer2(string name)
+        {
+            return !string.IsNullOrEmpty(name) ? $"Hello, {name} how are you doing today?" : "Name is empty.";
+}
+
+       
+        
         static void Main(string[] args)
         {
+
+
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine(Remove_char("country"));
         }
     }
 }
