@@ -1,0 +1,13 @@
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\bin\Debug\netcoreapp3.1\JavaScript Array Filter.exe
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\bin\Debug\netcoreapp3.1\JavaScript Array Filter.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\bin\Debug\netcoreapp3.1\JavaScript Array Filter.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\bin\Debug\netcoreapp3.1\JavaScript Array Filter.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\bin\Debug\netcoreapp3.1\JavaScript Array Filter.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\bin\Debug\netcoreapp3.1\JavaScript Array Filter.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\obj\Debug\netcoreapp3.1\JavaScript Array Filter.csprojAssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\obj\Debug\netcoreapp3.1\JavaScript Array Filter.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\obj\Debug\netcoreapp3.1\JavaScript Array Filter.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\obj\Debug\netcoreapp3.1\JavaScript Array Filter.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\obj\Debug\netcoreapp3.1\JavaScript Array Filter.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\obj\Debug\netcoreapp3.1\JavaScript Array Filter.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\JavaScript Array Filter\obj\Debug\netcoreapp3.1\JavaScript Array Filter.genruntimeconfig.cache
