@@ -1,0 +1,13 @@
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\bin\Debug\netcoreapp3.1\Substituting Variables Into Strings.exe
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\bin\Debug\netcoreapp3.1\Substituting Variables Into Strings.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\bin\Debug\netcoreapp3.1\Substituting Variables Into Strings.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\bin\Debug\netcoreapp3.1\Substituting Variables Into Strings.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\bin\Debug\netcoreapp3.1\Substituting Variables Into Strings.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\bin\Debug\netcoreapp3.1\Substituting Variables Into Strings.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\obj\Debug\netcoreapp3.1\Substituting Variables Into Strings.csprojAssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\obj\Debug\netcoreapp3.1\Substituting Variables Into Strings.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\obj\Debug\netcoreapp3.1\Substituting Variables Into Strings.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\obj\Debug\netcoreapp3.1\Substituting Variables Into Strings.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\obj\Debug\netcoreapp3.1\Substituting Variables Into Strings.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\obj\Debug\netcoreapp3.1\Substituting Variables Into Strings.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Substituting Variables Into Strings\obj\Debug\netcoreapp3.1\Substituting Variables Into Strings.genruntimeconfig.cache
