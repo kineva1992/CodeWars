@@ -1,0 +1,13 @@
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\bin\Debug\netcoreapp3.1\Credit Card Mask.exe
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\bin\Debug\netcoreapp3.1\Credit Card Mask.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\bin\Debug\netcoreapp3.1\Credit Card Mask.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\bin\Debug\netcoreapp3.1\Credit Card Mask.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\bin\Debug\netcoreapp3.1\Credit Card Mask.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\bin\Debug\netcoreapp3.1\Credit Card Mask.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\obj\Debug\netcoreapp3.1\Credit Card Mask.csprojAssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\obj\Debug\netcoreapp3.1\Credit Card Mask.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\obj\Debug\netcoreapp3.1\Credit Card Mask.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\obj\Debug\netcoreapp3.1\Credit Card Mask.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\obj\Debug\netcoreapp3.1\Credit Card Mask.dll
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\obj\Debug\netcoreapp3.1\Credit Card Mask.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\kyu7\Credit Card Mask\obj\Debug\netcoreapp3.1\Credit Card Mask.genruntimeconfig.cache
