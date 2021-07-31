@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedControl", "SpeedControl.csproj", "{AD53FAB7-5E4F-441F-A73C-89843AF4767D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD53FAB7-5E4F-441F-A73C-89843AF4767D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD53FAB7-5E4F-441F-A73C-89843AF4767D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD53FAB7-5E4F-441F-A73C-89843AF4767D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD53FAB7-5E4F-441F-A73C-89843AF4767D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3125535E-7D30-458D-A0B3-1B2596EB022C}
+	EndGlobalSection
+EndGlobal
