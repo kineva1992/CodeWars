@@ -12,4 +12,4 @@ function moveTen(s) {
     }
     text = moveten.map((word) => String.fromCharCode(word)).join("");
     return text;
-  }
+}
