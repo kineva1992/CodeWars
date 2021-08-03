@@ -23,6 +23,7 @@ function moveTen(s) {
   text = moveten.map(function (word) {
     return String.fromCharCode(word);
   }).join("");
+  text.moveTen.join;
   return text;
 }
 

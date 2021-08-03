@@ -1,4 +1,7 @@
 {
     "compile-hero.disable-compile-files-on-did-save-code": false,
-    "editor.find.autoFindInSelection": "always"
+    "editor.find.autoFindInSelection": "always",
+    "editor.autoClosingBrackets": "always",
+    "javascript.suggest.completeFunctionCalls": true,
+    "typescript.suggest.completeFunctionCalls": true
 }
