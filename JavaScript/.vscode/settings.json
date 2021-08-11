@@ -3,5 +3,11 @@
     "editor.find.autoFindInSelection": "always",
     "editor.autoClosingBrackets": "always",
     "javascript.suggest.completeFunctionCalls": true,
-    "typescript.suggest.completeFunctionCalls": true
+    "typescript.suggest.completeFunctionCalls": true,
+    "editor.formatOnSave": true,
+// добавить это
+"[javascript]": {
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+},
+"eslint.format.enable": true
 }

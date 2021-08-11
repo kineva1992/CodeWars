@@ -1,0 +1,16 @@
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\bin\Debug\netcoreapp3.1\SumCube.exe
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\bin\Debug\netcoreapp3.1\SumCube.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\bin\Debug\netcoreapp3.1\SumCube.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\bin\Debug\netcoreapp3.1\SumCube.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\bin\Debug\netcoreapp3.1\SumCube.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\bin\Debug\netcoreapp3.1\SumCube.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\obj\Debug\netcoreapp3.1\SumCube.csproj.AssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\obj\Debug\netcoreapp3.1\SumCube.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\obj\Debug\netcoreapp3.1\SumCube.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\obj\Debug\netcoreapp3.1\SumCube.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\obj\Debug\netcoreapp3.1\SumCube.csproj.CopyComplete
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\obj\Debug\netcoreapp3.1\SumCube.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\obj\Debug\netcoreapp3.1\SumCube.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\SumCube\obj\Debug\netcoreapp3.1\SumCube.genruntimeconfig.cache
