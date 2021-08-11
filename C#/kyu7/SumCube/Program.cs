@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Linq;
 
 namespace SumCube
 {
@@ -18,6 +19,9 @@ namespace SumCube
     class Program
     {
         public static long SumCubes(int n) => (long)Math.Pow(n * (n + 1) / 2, 2);
+
+        public static long SubCubesVer2(int n) => Enumerable.Range(1, n).Sum(i => 1L * i * i * i);
+
 
 
        
