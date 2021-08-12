@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AWFn10qEYTrv9etNgP6zZfN6PoHa3PSMzVdG7ihJWWn7S2SnrXRAnH3+RLe0MbelIw7XwSNl/QcsfOopj5nzkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\source\\CodeWars\\CodeWars\\C#\\kyu7\\Factorials\\Factorials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
+  "logs": []
+}

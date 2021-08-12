@@ -1,0 +1,15 @@
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\obj\Debug\netcoreapp3.1\Factorials.csproj.AssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\obj\Debug\netcoreapp3.1\Factorials.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\obj\Debug\netcoreapp3.1\Factorials.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\obj\Debug\netcoreapp3.1\Factorials.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\bin\Debug\netcoreapp3.1\Factorials.exe
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\bin\Debug\netcoreapp3.1\Factorials.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\bin\Debug\netcoreapp3.1\Factorials.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\bin\Debug\netcoreapp3.1\Factorials.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\bin\Debug\netcoreapp3.1\Factorials.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\bin\Debug\netcoreapp3.1\Factorials.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\obj\Debug\netcoreapp3.1\Factorials.csproj.CopyComplete
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\obj\Debug\netcoreapp3.1\Factorials.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\obj\Debug\netcoreapp3.1\Factorials.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Factorials\obj\Debug\netcoreapp3.1\Factorials.genruntimeconfig.cache
