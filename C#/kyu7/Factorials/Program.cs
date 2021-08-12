@@ -6,6 +6,12 @@ namespace Factorials
     class Program
     {
 
+        /*
+         Your task is to write function factorial.
+
+            https://en.wikipedia.org/wiki/Factorial
+         */
+
         public static int factorial(int n)
         {
             int factorial = 1;
