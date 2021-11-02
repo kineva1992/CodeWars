@@ -1,0 +1,7 @@
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\You'reASquare!\obj\Debug\netcoreapp3.1\You'reASquare!.csproj.AssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\You'reASquare!\obj\Debug\netcoreapp3.1\You_reASquare_.You_reASquare_Test.Properties.Resources.resources
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\You'reASquare!\obj\Debug\netcoreapp3.1\You'reASquare!.csproj.GenerateResource.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\You'reASquare!\obj\Debug\netcoreapp3.1\You'reASquare!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\You'reASquare!\obj\Debug\netcoreapp3.1\You'reASquare!.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\You'reASquare!\obj\Debug\netcoreapp3.1\You'reASquare!.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\You'reASquare!\obj\Debug\netcoreapp3.1\You'reASquare!.csproj.CoreCompileInputs.cache

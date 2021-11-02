@@ -17,7 +17,7 @@ In mathematics, a square number or perfect square is an integer that is the squa
 
 The tests will always use some integral number, so don't worry about that in dynamic typed languages.
      */
-    class Kata
+   public class Kata
     {
         public static bool IsSquare(int n)
         {
