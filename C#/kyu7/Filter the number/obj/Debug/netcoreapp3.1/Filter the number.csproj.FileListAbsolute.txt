@@ -1,0 +1,14 @@
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\bin\Debug\netcoreapp3.1\Filter the number.exe
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\bin\Debug\netcoreapp3.1\Filter the number.deps.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\bin\Debug\netcoreapp3.1\Filter the number.runtimeconfig.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\bin\Debug\netcoreapp3.1\Filter the number.runtimeconfig.dev.json
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\bin\Debug\netcoreapp3.1\Filter the number.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\bin\Debug\netcoreapp3.1\Filter the number.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\obj\Debug\netcoreapp3.1\Filter the number.csproj.AssemblyReference.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\obj\Debug\netcoreapp3.1\Filter the number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\obj\Debug\netcoreapp3.1\Filter the number.AssemblyInfoInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\obj\Debug\netcoreapp3.1\Filter the number.AssemblyInfo.cs
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\obj\Debug\netcoreapp3.1\Filter the number.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\obj\Debug\netcoreapp3.1\Filter the number.dll
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\obj\Debug\netcoreapp3.1\Filter the number.pdb
+C:\Users\alexa\source\CodeWars\CodeWars\C#\kyu7\Filter the number\obj\Debug\netcoreapp3.1\Filter the number.genruntimeconfig.cache
