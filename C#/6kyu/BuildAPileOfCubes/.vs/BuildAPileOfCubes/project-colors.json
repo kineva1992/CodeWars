@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b458afb-1664-4fb8-ba65-906fe23bb926": {
+      "ProjectGuid": "3b458afb-1664-4fb8-ba65-906fe23bb926",
+      "DisplayName": "BuildAPileOfCubes",
+      "ColorIndex": 0
+    },
+    "be3a9212-c77e-4a20-aa7b-b195ea69c533": {
+      "ProjectGuid": "be3a9212-c77e-4a20-aa7b-b195ea69c533",
+      "DisplayName": "BuildAPileOfCubes.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
