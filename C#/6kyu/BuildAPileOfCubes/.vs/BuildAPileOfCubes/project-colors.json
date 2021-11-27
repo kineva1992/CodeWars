@@ -10,7 +10,17 @@
       "ProjectGuid": "be3a9212-c77e-4a20-aa7b-b195ea69c533",
       "DisplayName": "BuildAPileOfCubes.Tests",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "43e6a5c5-1ed0-4f96-be96-f90e0ea61ca5": {
+      "ProjectGuid": "43e6a5c5-1ed0-4f96-be96-f90e0ea61ca5",
+      "DisplayName": "BuildAPileOfCubes.Test",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
